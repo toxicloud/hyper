@@ -1,0 +1,19 @@
+*{
+    margin-top: 0;
+}
+header{
+    background: rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+header a{
+    color: wheat;
+    font-size: 22px;
+}
+header a:hover{
+    color: darkgreen;
+}
+body{
+    background-color:gray;
+    color: white;
+    font-size: 300%;
+}
